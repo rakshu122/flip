@@ -1,0 +1,33 @@
+As a user
+
+I want to have a logine functionalty
+
+so that he can successfully use login page
+
+Scope
+
+User should be able to login
+
+Pre-condition
+
+He should hav get his comfort/correct
+
+Acceptance criteria
+
+scenario 1:
+
+user can successfully login to the flipkart application
+
+customer should give the volid user name and password
+
+customer should give the mobile number to grt OTP for authenitcation
+
+then customer successfully login to the bookmyshow application
+
+scenario 2:
+
+customer con’t successfully login to the flipkart application
+
+customer should give the invalid user name and apssword
+
+customer olready segistered
